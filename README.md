@@ -5,3 +5,5 @@ Features:
 - No Offscreen Rendering
 - Collision
 - Alpha values on colours
+- AABB Collision
+- Lighting System
